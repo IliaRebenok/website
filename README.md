@@ -1,2 +1,0 @@
-# weed-shop
-web-site
